@@ -1,0 +1,5 @@
+cohere>=5.13
+rank_bm25
+numpy
+pandas
+matplotlib

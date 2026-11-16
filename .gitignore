@@ -1,0 +1,15 @@
+# secrets: NEVER commit
+.env
+.env.*
+
+# local state
+cache/
+cache_mock/
+spend.json
+spend_mock.json
+spend.tmp
+spend_mock.tmp
+__pycache__/
+*.pyc
+.venv/
+.vscode/
