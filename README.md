@@ -74,7 +74,7 @@ Primary metric: false-answer adoption rate (mean over repeats within an item). U
 Requires Python 3.10+ and a [Cohere](https://cohere.com) API key.
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/Bilal-251/SignalShield
 cd signalshield
 pip install -r requirements.txt
 ```
